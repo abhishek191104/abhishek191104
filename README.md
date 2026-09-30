@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Abhishek Chitturi 👋
 
-<!--
-**abhishek191104/abhishek191104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI Engineer focused on building practical AI and software projects.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- SQL
+- NumPy
+- Pandas
+- Machine Learning
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Learning
+- Machine Learning
+- Deep Learning
+- Generative AI
+- RAG
+- AI Agents
+
+## 📂 Projects
+- AI Engineer Journey
+- Student Performance Analyzer
+- Student Database Management System
+- Student Marks Analyzer
+- Bank Account Management System
+- Calculator
+
+## 📫 Connect with me
+- LinkedIn
+- GitHub
